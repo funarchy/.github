@@ -1,4 +1,8 @@
-![Funarchy](https://funarchy.org/banner-1600x512.png)
+<picture>
+  <source type="image/avif" srcset="https://funarchy.org/banner-1600x512.avif">
+  <source type="image/webp" srcset="https://funarchy.org/banner-1600x512.webp">
+  <img alt="Funarchy" src="https://funarchy.org/banner-1600x512.png">
+</picture>
 
 ## Funarchy
 
